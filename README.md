@@ -6,7 +6,7 @@
 
 ## Languages
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cmake,go,html,css,js,ts,php,haskell,dart,kotlin,rust,py,lua,graphql,wasm)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,cmake,go,dotnet,html,css,js,ts,php,haskell,dart,kotlin,rust,py,lua,graphql,wasm)](https://skillicons.dev)
 
 ## Environments
 
